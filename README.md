@@ -2,7 +2,18 @@
 
 Freedisk is an Android storage-cleaning app. It helps people get their phone storage back by finding duplicate photos, duplicate audio, junk files and large files, and by showing where their space is going. It was designed from a Figma file, built from scratch and published on Google Play.
 
+**[Get Freedisk on Google Play](https://play.google.com/store/apps/details?id=com.omega.freedisk)**
+
 > The source code is not published in this repository. This page describes what the project does and how it was built.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot-1.png" width="23%" alt="Overview: see where your storage went" />
+  <img src="screenshots/screenshot-2.png" width="23%" alt="Find duplicate photos" />
+  <img src="screenshots/screenshot-3.png" width="23%" alt="Clear duplicate audio" />
+  <img src="screenshots/screenshot-4.png" width="23%" alt="Break down your storage" />
+</p>
 
 ## What the app does
 
